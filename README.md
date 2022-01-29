@@ -7,7 +7,7 @@
 
  This is a powershell script that initializes the django environment for development.
 
-### functionalities
+### Functionalities
 
 - Makes new project directory
 - Creates python virtual environment
@@ -19,7 +19,7 @@
 
 ### Pending updates
 
-- Adds django pp to installed app list in settings.py file
+- Adds django newly created app to installed app list in settings.py file
 
 ### Requirement
 
@@ -27,3 +27,12 @@ I assume that if you have the intention of working on a django project you have 
 
 
 
+### Installation guide
+
+This script is published on powershell gallery. Install by running the command below:
+
+```powershell
+
+Install-Script -Name djangosetup
+
+```
