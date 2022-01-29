@@ -7,7 +7,7 @@
 
  This is a powershell script that initializes the django environment for development.
 
- functionalities
+### functionalities
 
 - Makes new project directory
 - Creates python virtual environment
@@ -17,7 +17,13 @@
 - Creates django application
 - Carries out initial migration for django application
 
-Pending updates
+### Pending updates
 
 - Adds django pp to installed app list in settings.py file
+
+### Requirement
+
+I assume that if you have the intention of working on a django project you have python already installed on your computer. If not here is a  [link](https://www.python.org/downloads/) to guide in installing python.
+
+
 
