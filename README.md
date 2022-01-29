@@ -11,7 +11,7 @@
 
 - Makes new project directory
 - Creates python virtual environment
-- Activating virtual environment
+- Activates the virtual environment
 - Installs django and rest framework
 - Creates django project
 - Creates django application
@@ -23,7 +23,7 @@
 
 ### Requirement
 
-I assume that if you have the intention of working on a django project you have python already installed on your computer. If not here is a  [link](https://www.python.org/downloads/) to guide in installing python.
+I assume that if you have the intention of working on a django project, you have python already installed on your computer. If not, here is a  [link](https://www.python.org/downloads/) to guide in installing python.
 
 
 
