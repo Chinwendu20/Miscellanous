@@ -1,5 +1,5 @@
 # Scripts
- This is a reposiyory of scripts that I have created to help make my life easier.
+ This is a repository of scripts that I have created to help make my life easier.
 
  ## Description
 
