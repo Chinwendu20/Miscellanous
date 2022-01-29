@@ -36,3 +36,5 @@ This script is published on powershell gallery. Install by running the command b
 Install-Script -Name djangosetup
 
 ```
+### Note
+If you are using powershell on ubuntu. The script's folder would not be placed automatically on the PATH. This is the folder path for the script: ~/.local/share/powwershell/Scripts
